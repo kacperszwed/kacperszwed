@@ -24,15 +24,6 @@
 <p align="left">
 <details>
 <summary>
-📊 <b>GitHub Statistics</b>
-</summary>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kacperszwed&show_icons=true&locale=en" alt="kacperszwed" /><br>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kacperszwed&show_icons=true&locale=en&layout=compact" alt="kacperszwed" />
-</p></details></p>
-<p align="left">
-<details>
-<summary>
 📫 <b>Contact me</b>
 </summary>
 </p>
